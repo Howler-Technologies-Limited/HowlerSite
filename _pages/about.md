@@ -12,7 +12,7 @@ include_in_header: true
 
 [//]: # ![](_assets/Howler.png){:class="img"}
 
-![](/Howler.png)
+[//]: # ![](/Howler.png)
 
 ![](Howler.png)
 
