@@ -3,9 +3,9 @@ layout: page
 title: About
 include_in_header: true
 ---
-![image-title-here](_pages/Howler.png)
+![image-title-here](/_pages/Howler.png)
 
-![image-title-here](_pages/Howler.png){:class="img-responsive"}
+![image-title-here](/_pages/Howler.png){:class="img-responsive"}
 
 ![Nonresponsive-image-title-here](_assets/Howler.png){:class="img"}
 
