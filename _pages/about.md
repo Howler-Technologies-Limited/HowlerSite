@@ -5,9 +5,9 @@ include_in_header: true
 ---
 ![[Howler.png|400]]
 
-![image-title-here](Howler.png){:class="img-responsive"}
+![image-title-here](_pages/Howler.png){:class="img-responsive"}
 
-![Nonresponsive-image-title-here](Howler.png){:class="img"}
+![Nonresponsive-image-title-here](_assets/Howler.png){:class="img"}
 
 
 ## The Lore
