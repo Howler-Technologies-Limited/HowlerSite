@@ -12,7 +12,9 @@ include_in_header: true
 
 [//]: # ![](_assets/Howler.png){:class="img"}
 
-![](/_pages/Howler.png)
+![](/Howler.png)
+
+![](Howler.png)
 
 ## The Lore
 In the Harry Potter universe, Howlers were owl-delivered letters read aloud to recipients in senders' voices. The smarthpone application, Howler®, builds on this; in-app personal voice messages are quickly converted into podcasts that sound like a synchronous conversation ([listen to exemplar Howlcast](https://firebasestorage.googleapis.com/v0/b/howler-beta-test.appspot.com/o/howlcasts%2FPFMmCatcLcPHo1XOvfBIjrXDVqI2%2F6D002CC7-1C74-401A-A3AA-A962020DBA23?alt=media&token=e3d8ad8e-b6a7-40bb-8ed0-fd55d9488259)). Howler's vision is to democratise podcasting while providing non-toxic content.
