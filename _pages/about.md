@@ -3,15 +3,6 @@ layout: page
 title: About
 include_in_header: true
 ---
-[//]: < 
-![](/_pages/Howler.png)
->
-
-[//]: <![](/_pages/Howler.png){:class="img-responsive"}
->
-
-[//]: # ![](_assets/Howler.png){:class="img"}
-
 ![](/Howler.png)
 
 [//]: # ![](Howler.png)
