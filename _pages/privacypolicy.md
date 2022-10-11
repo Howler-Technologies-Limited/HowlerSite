@@ -8,7 +8,7 @@ include_in_header: true
 1 September 2020
 
 # Privacy Policy
-Howler Technologies Ltd. ("us", "we", or "our") operates the http://sendhowler.com website and the Howler mobile application (hereinafter referred to as the "Service").
+Howler Technologies Ltd. ("us", "we", or "our") operates the https://www.sendhowler.com website and the Howler mobile application (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
